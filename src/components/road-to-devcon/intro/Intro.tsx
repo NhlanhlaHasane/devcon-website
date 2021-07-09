@@ -55,7 +55,10 @@ export const Intro = React.forwardRef((props: any, ref) => {
             <p className="no-select">{intl.formatMessage({ id: 'rtd_intro' })}</p>
             <p className={`no-select ${css['no-announcement-date']}`}>
               {intl.formatMessage({ id: 'rtd_intro_no_date' })}.{' '}
-              <Link className="bold hover-underline" to="">
+              <Link
+                className="bold hover-underline"
+                to="https://blog.ethereum.org/2021/01/26/the-longer-road-to-devcon/"
+              >
                 {intl.formatMessage({ id: 'rtd_intro_no_date_learn_more' })}.
               </Link>
             </p>
