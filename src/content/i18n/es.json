@@ -106,6 +106,8 @@
   "rtd_quests_create": "Enviar misión",
   "rtd_quests_learn_more": "Más información",
   "rtd_quests_upcoming": "Próximamente",
+  "rtd_quests_no_upcoming": "No se anunciaron misiones planificadas",
+  "rtd_quests_no_upcoming_description": "¿Tienes una idea para emocionar a la comunidad? Participe y cree una misión en el camino hacia Devcon.",
   "rtd_quests_upcoming_no_results": "No hay misiones planificadas por ahora",
   "rtd_quests_past": "Pasado",
   "rtd_quests_past_no_results": "¡No hay nada que mostrar!",

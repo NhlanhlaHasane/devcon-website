@@ -106,6 +106,8 @@
   "rtd_quests_create": "Submit quest",
   "rtd_quests_learn_more": "Learn More",
   "rtd_quests_upcoming": "Upcoming",
+  "rtd_quests_no_upcoming": "No planned quests announced",
+  "rtd_quests_no_upcoming_description": "Have an idea to excite the community? Get involved and create a Quest on the Road to Devcon.",
   "rtd_quests_upcoming_no_results": "There are no planned quests for now",
   "rtd_quests_past": "Past",
   "rtd_quests_past_no_results": "There's nothing to show!",
